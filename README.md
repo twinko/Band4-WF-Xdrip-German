@@ -19,7 +19,12 @@ No worries, the am/pm funktionality is not visible
 ![Screenshot](new_packed_static.png)
 
 
-
+How to edit this watchface by yourself:
+1. Download the Watchface Builder: https://amazfitwatchfaces.com/forum/viewtopic.php?t=890
+2. Donwload the "Miband 4 Watchface GER" folder
+3. Load the new.jason
+4. Edit the watchface
+5. Please share your watchface in the issue section or as a commit!
 
 
 --> DE

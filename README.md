@@ -1,7 +1,10 @@
 # Band4-WF-Xdrip-German
 
+
 First of all a big thanks to BigDigital! He created the initial layout for this watchface and provides the Miband support for xdrip! https://bigdigital.home.blog
 
+
+</br></br>
 --> EN  (DE steht unten)
 
 1. Download all files in "MiBand 4 Xdrip WF GER"
